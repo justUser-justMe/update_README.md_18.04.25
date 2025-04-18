@@ -98,7 +98,7 @@ Workflow – движки
 ## CONFIG PRETTIER
 
 {
-"printWidth": 80,
+	"printWidth": 80,
 
     # Использовать символы табуляции для отступов
         "useTabs": true,
