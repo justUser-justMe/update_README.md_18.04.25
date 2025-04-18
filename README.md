@@ -98,6 +98,7 @@ Workflow – движки
 ## CONFIG PRETTIER
 
 {
+	#
 	"printWidth": 80,
 
     # Использовать символы табуляции для отступов
@@ -126,5 +127,4 @@ Workflow – движки
         2. Avoid - избегать круглых скобок при 1 аргументе
 
         "arrowParens": "always",
-
 }
